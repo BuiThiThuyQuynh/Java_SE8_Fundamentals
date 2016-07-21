@@ -1,0 +1,12 @@
+Chào cô,
+
+Theo em tìm hiểu được về số bit dịch (phải và trái) tối đa của kiểu int và long thì:
+
+•	Kiểu int: cho phép dịch tối đa là 32 bit.
+•	Kiểu long: cho phép dịch tối đa là 64 bit.
+•	Nếu như số bit dịch lớn hơn số bit của kiểu dữ liệu thì ta chia lấy dư để lấy được số bit cần dịch. VD: ta có biến kiểu long (64 bit), ta thực hiện phép toán dịch phải 67 bit thì ta lấy (67 % 64 = 3). 3 là số bit mà ta cần dịch.
+
+Và đây là link em tìm được: 
+https://books.google.com.vn/books?id=lGRpeBZQYPoC&pg=PA41&lpg=PA41&dq=max+number+bit+of+right+shift+operators+java&source=bl&ots=8q4fd-f_eD&sig=JsNr7bdaq4xbQbhGUgMwe3H78ko&hl=en&sa=X&ved=0ahUKEwiWw4v644POAhWEj5QKHdcXDCc4ChDoAQg6MAU#v=onepage&q=max%20number%20bit%20of%20right%20shift%20operators%20java&f=false
+
+Bùi Thị Thúy Quỳnh.
